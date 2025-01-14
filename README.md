@@ -1,5 +1,8 @@
 ZX_Test128+ основано на тесте ХАХОНОВа Чуть поиздевался над тестом Хахонова 128 Добавлено текст и цвет бордера=номер страницы при наличии ошибки https://t.me/ZS_ProfRom/1/7176
 
+Файл оригинального описания теста
+TEST128_ver_1_1 (3).txt
+
 https://github.com/djapendix/ZX_Test_128Plus_ROM/blob/main/TEST128_ver_1_1%20(3).txt
 
 ![image](https://github.com/user-attachments/assets/58c9c2c4-e557-454c-98e3-4e20f4d8775a)
